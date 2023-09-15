@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11be7ccc-3a85-45e1-b447-20f3a71f4b5d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Estante_de_livros.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Estante_de_livros.iml" afterDir="false" />
+    <list default="true" id="11be7ccc-3a85-45e1-b447-20f3a71f4b5d" name="Changes" comment="Feat index.html.erb: Melhorando view">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/books/index.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/books/index.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/book.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/book.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,11 +132,24 @@
       <option name="presentableId" value="Default" />
       <updated>1694805297074</updated>
       <workItem from="1694805298379" duration="147000" />
-      <workItem from="1694805556938" duration="1305000" />
+      <workItem from="1694805556938" duration="2936000" />
     </task>
+    <task id="LOCAL-00001" summary="Feat index.html.erb: Melhorando view">
+      <option name="closed" value="true" />
+      <created>1694806978101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694806978101</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feat index.html.erb: Melhorando view" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat index.html.erb: Melhorando view" />
   </component>
 </project>
