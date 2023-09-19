@@ -1,4 +1,3 @@
 class Book < ApplicationRecord
-  validates :title, :author, presence: true
-
+  attr_accessor :title, :author, :description, :nota
 end
